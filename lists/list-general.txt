@@ -111,6 +111,7 @@ telegram-cdn.org
 usercontent.dev
 tgram.org
 torg.orgtorg.org
+torg.org
 2fa.telegram.org
 abuse.telegram.org
 account.telegram.org
