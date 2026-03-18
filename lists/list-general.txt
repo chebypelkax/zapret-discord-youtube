@@ -290,4 +290,10 @@ web.t.me
 web.telegram.org
 webk.telegram.org
 windows.telegram.org
-zeus.telegram.org
+zeus.telegram.orgzeus.telegram.org
+web.telegram.org
+telegram.org
+telegram.com
+telegram.ru
+web.telegram.com
+web.telegram.ru
